@@ -1,0 +1,15 @@
+{
+	"name": "adfnycaakash123",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d1434c7-da7c-4bc3-ae5e-e0a1b2898bd6",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
